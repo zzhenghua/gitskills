@@ -1,1 +1,2 @@
 创建与合并分支
+Creating a new branch is quick & simple
